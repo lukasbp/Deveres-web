@@ -1,3 +1,26 @@
 img{
-    width: 300px;
+    width: 250px;
+}
+
+table#t {
+    border: 1px solid black;
+    border-spacing: 0px;
+}
+
+table#t caption{
+    display: block;
+    float: right;
+    color: black;
+    font-size: 15pt;
+}
+
+table#t th{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: auto;
+    vertical-align: middle;
+}
+
+p{
+    font-size: 13pt;
 }
