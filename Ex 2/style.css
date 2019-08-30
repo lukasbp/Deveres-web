@@ -1,0 +1,26 @@
+.bluerectangle{
+    background-color: blue;
+    height: 50px;
+    width: 450px;
+    position: absolute;
+}
+.redrectangle{
+    background-color: red;
+    margin-top: 50px;
+    height: 250px;
+    width: 100px;
+    position: absolute;
+}
+.greenbox{
+    background-color: green;
+    height: 300px;
+    width: 400px;
+    position: static;
+}
+.orangerectangle{
+    background-color: orange;
+    margin-top: -250px;
+    margin-left: 350px;
+    height: 250px;
+    width: 100px;
+}
