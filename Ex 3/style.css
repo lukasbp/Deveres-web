@@ -1,0 +1,34 @@
+.redbox{
+    height: 200px;
+    width: 200px;
+    border: 30px red solid;
+    margin: 30px auto 30px auto;
+}
+
+.yellowminibox{
+    margin: 20px 10px 20px 30px;
+    border: 30px yellow solid;
+}
+
+.bluebox{
+    height: 120px;
+    border: 30px blue solid;
+    padding: 10px;
+}
+
+.greenbox{
+    border: 50px green solid;
+    height: 30px;
+    width: 40px;
+    background-color: green;
+    margin: -10px -10px auto -10px;
+    padding-top: 10px;
+}
+
+.dashes{
+    border: 5px black dotted;
+    width: 250px;
+    height: 250px;
+    margin:-170px;
+    
+}

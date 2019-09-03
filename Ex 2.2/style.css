@@ -1,0 +1,23 @@
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+}
+.chefia{
+    background-color: green;
+}
+.coord{
+    background-color: blue;
+}
+.cad{
+    background-color: red;
+    margin-top: -40px;
+}
+.asd{
+    background-color: blue;
+    margin-top: -35px;
+}
+.doc{
+    margin-top: -5px;
+}
